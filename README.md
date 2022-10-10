@@ -1,9 +1,9 @@
 <details>
   <summary>:brazil: Versão em português</summary>
   
-# Bem vindos ao Recipes App!
+# Bem vindos ao myRecipe-app!
 
- Recipes App é uma aplicação onde você pode: 
+ myRecipe-app é uma aplicação onde você pode: 
  - Procurar por seu prato ou coquetel favorito;
  - Listar tudo disponibilizado pelas api's TheMealDB e TheCocktailDB;
  - Checar a lista de ingredientes e suas instruções com o auxílio de vídeos;
@@ -49,7 +49,7 @@ React, React Router Dom v5, Tailwind CSS, React Testing Library, Context API
 - Clone este repositório
 
 ```bash
- git clone git@github.com:danielerhardt/recipes-app.git  
+ git clone git@github.com:danielerhardt/myRecipe-app.git  
 ```
 - Acesse a pasta do projeto
 
@@ -117,7 +117,7 @@ and making an environment to display both contents. I was able to:
 - Clone this repository
 
 ```bash
- git clone git@github.com:danielerhardt/recipes-app.git  
+ git clone git@github.com:danielerhardt/myRecipe-app.git  
 ```
 - Access the project's folder
 
