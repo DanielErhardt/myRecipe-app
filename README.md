@@ -69,9 +69,9 @@ React, React Router Dom v5, Tailwind CSS, React Testing Library, Context API
 <details open>
   <summary>:us: English version</summary>
   
-# Welcome to Recipes App!
+# Welcome to myRecipe-app!
 
- Recipes App is an application where you can: 
+ myRecipe-app is an application where you can: 
  - Search for your favorite dishes and drinks;
  - List everything made available by TheMealDB and TheCocktailDB api's;
  - Check the list of ingredients and its instructions with the help of a video;
